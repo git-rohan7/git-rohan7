@@ -63,22 +63,18 @@ const rohan = {
 
 ## 🚀 Current Focus
 
-**Building Connecto**  
-Scaling it into a robust real-time chat & collaboration platform with advanced features like video calls and file sharing.
+- **Connecto** — Scaling a real-time chat & collaboration platform with video calls and file sharing.  
+- **Backend Mastery** — Spring Boot, PostgreSQL, Microservices, and API design.  
+- **DSA Grind** — Solving challenges on Codeforces & LeetCode to sharpen algorithmic thinking.  
+- **System Design** — Scalable architectures, performance optimization, and cloud deployments (AWS/GCP).  
+- **Open Source** — Contributing, learning, and building in public.
 
-**Backend Mastery**  
-Deep diving into Spring Boot, PostgreSQL, and microservices architecture.
-
-**DSA Grind**  
-Solving problems on Codeforces & LeetCode to sharpen algorithmic skills.
-
-**System Design**  
-Exploring scalable architectures, performance optimization, and cloud deployments (AWS/GCP).
-
-**Open Source**  
-Contributing to projects and learning from the community.
 
 🔥 Fun Zone
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> <details> <summary>🎯 Recent Achievements</summary> - Solved 500+ LeetCode problems - Built and deployed multiple full-stack apps - Active contributor to open-source repos - Top 10% in Codeforces contests </details> <details> <summary>📈 Contribution Graph</summary> <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-rohan7&theme=radical" /> </details>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> <details> <summary>🎯 Recent Achievements</summary> - Solved 150+ LeetCode problems - Built and deployed multiple full-stack apps - Active contributor to open-source repos - Top 20% in Codeforces contests </details> <details> <summary>📈 Contribution Graph</summary> <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-rohan7&theme=radical" /> </details>
 💬 Let's Connect!
 <p align="center"> <img src="https://img.shields.io/badge/Hit%20me%20up%20for-Collaborations%20%26%20Chats-blue?style=for-the-badge" /> </p> <p align="center"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> <em>Thanks for visiting! Feel free to star my repos or drop a message. 😊</em> </p> 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>

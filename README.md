@@ -40,14 +40,44 @@ const rohan = {
 <p align="center"> <a href="https://twitter.com/ro__han07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35" alt="Twitter"/></a> <a href="https://www.linkedin.com/in/rohan-kumar-b08447334/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn"/></a> <a href="https://instagram.com/ro._.han07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" alt="Instagram"/></a> <a href="https://codeforces.com/profile/rohan3008"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" alt="Codeforces"/></a> <a href="https://leetcode.com/u/kilb5llk1d/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" alt="LeetCode"/></a> <a href="mailto:offcrohan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </p>
 🧰 Tech Stack
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" alt="Spring Boot"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" alt="Docker"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" alt="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42" alt="Redux"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="42" alt="Tailwind CSS"/> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-rohan7&layout=compact&theme=radical&hide=html,css" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-rohan7&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=git-rohan7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> </p>
-🚀 Current Focus
-Building Connecto: Scaling it into a robust realtime chat + collaboration platform with advanced features like video calls and file sharing. 🚀
-Backend Mastery: Deep diving into Spring Boot, PostgreSQL, and microservices architecture.
-DSA Grind: Solving problems on Codeforces & LeetCode to sharpen algorithmic skills. 🧠
-System Design: Exploring scalable architectures, performance optimization, and cloud deployments (AWS/GCP).
-Open Source: Contributing to projects and learning from the community.
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<!-- Dynamic stats: primary (live) image fetches on each README render. Fallback below. -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=git-rohan7&show_icons=true&theme=tokyonight&cache_seconds=60)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=git-rohan7&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=git-rohan7&theme=tokyonight&layout=compact)
+
+<details>
+<summary>Fallback: locally committed stats (used when the live card fails to render)</summary>
+
+![GitHub Stats Fallback](./gh_stats.svg)
+
+</details>
+
+</div>
+
+## 🚀 Current Focus
+
+**Building Connecto**  
+Scaling it into a robust real-time chat & collaboration platform with advanced features like video calls and file sharing.
+
+**Backend Mastery**  
+Deep diving into Spring Boot, PostgreSQL, and microservices architecture.
+
+**DSA Grind**  
+Solving problems on Codeforces & LeetCode to sharpen algorithmic skills.
+
+**System Design**  
+Exploring scalable architectures, performance optimization, and cloud deployments (AWS/GCP).
+
+**Open Source**  
+Contributing to projects and learning from the community.
+
 🔥 Fun Zone
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> <details> <summary>🎯 Recent Achievements</summary> - Solved 500+ LeetCode problems - Built and deployed multiple full-stack apps - Active contributor to open-source repos - Top 10% in Codeforces contests </details> <details> <summary>📈 Contribution Graph</summary> <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-rohan7&theme=radical" /> </details>
 💬 Let's Connect!

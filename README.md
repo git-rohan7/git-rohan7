@@ -36,14 +36,7 @@ const rohan = {
 };
 ```
 
-🌐 Find Me Online
-<p align="center">
-  <a href="https://twitter.com/ro__han07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" alt="Twitter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rohan-kumar-b08447334/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ro._.han07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/rohan3008"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="36" alt="Codeforces"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/kilb5llk1d/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" alt="LeetCode"/></a>
-</p>
+
 
 
 
